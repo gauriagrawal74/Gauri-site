@@ -1,0 +1,41 @@
+{
+  "title": "Kenisha Agrawal",
+  "description": "",
+  "url": "http://localhost:8080",
+  "baseurl": "/",
+  "pages": [
+    {
+      "name": "About Me",
+      "url": "/"
+    },
+    {
+      "name": "Geometry",
+      "url": "/geometry"
+    },
+        {
+      "name": "Art",
+      "url": "/art"
+    },
+   
+    {
+      "name": "Sports",
+      "url": "/sports",
+      "children": {
+        "Gymnastics": "/gymnastics",
+        "Basketball": "/basketball",
+        "Running": "/running"
+        
+      }
+    },
+    {
+      "name": "Piano",
+      "url": "/piano"
+    },
+     
+     {
+      "name": "Community Work",
+      "url": "/community"
+    }
+   
+ ]
+}
