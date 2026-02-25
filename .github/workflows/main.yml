@@ -23,7 +23,7 @@ jobs:
           ssh -o StrictHostKeyChecking=no \
             github@${{ secrets.VPS_IP_ADDR }} \
             "
-              echo '${{ secrets.SUDO_PASSWORD }}' | sudo -S rm -rf kenisha-site &&
+              echo '${{ secrets.SUDO_PASSWORD }}' | sudo -S rm -rf gauri-site &&
               git clone ${{ secrets.REPO_URL }} || true &&
               cd \$(basename '${{ secrets.REPO_URL }}' .git) &&
               echo '${{ secrets.SUDO_PASSWORD }}' | sudo -S bash deploy.sh -i '${{ secrets.SUDO_PASSWORD }}'
