@@ -5,12 +5,12 @@
   "baseurl": "/",
   "pages": [
     {
-      "name": "About Me",
+      "name": "Awards",
       "url": "/"
     },
     {
-      "name": "Geometry",
-      "url": "/geometry"
+      "name": "Kathak",
+      "url": "/kathak"
     },
         {
       "name": "Art",
