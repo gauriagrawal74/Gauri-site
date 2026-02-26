@@ -5,6 +5,6 @@ export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("public");
 	eleventyConfig.addDataExtension("yaml", (contents) => YAML.parse(contents));
 	 return {
-    pathPrefix: "/Gauri-site/"
+    // pathPrefix: "/Gauri-site/"
   };
 };
