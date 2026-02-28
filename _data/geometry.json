@@ -1,0 +1,90 @@
+{
+  "recitals": [
+    {
+      "event": "Nirtat Dhang Dance Festival 2024, May 23rd",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/hptCJIbogIM?si=5oThFTUdXNJUjuWE",
+          "description": "Ardhang (Ardhnarishwar) | Kathak Performance | Composed by Pt. Birju Maharaj"
+        },
+        {
+          "url": "https://www.youtube.com/embed/HIO-3n3qtL8?si=sQ4fpOdB68aXCoZUC",
+          "description": "Sargam | Kathak Performance | Teentaal"
+        }
+      ]
+    },
+    {
+      "event": "Nirtat Dhang Dance Festival 2023, May 19th",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/XrR19MKXw7w?si=IMXaDYCtvQMD470U",
+          "description": "TThunga Thunga (Shree Krishna Nirtat) | Kathak Performance | Composed by Pt. Birju Maharaj"
+        },
+
+        {
+          "url": "https://www.youtube.com/embed/fayR2Lxrjqk?si=pXsGYOaSIn_fkI-I",
+          "description": "Grishma (Summer) | Kathak Performance"
+        },
+        {
+          "url": "https://www.youtube.com/embed/s-9lQ_5plDI?si=H9x-SF0lyXkC2_CH",
+          "description": "Basant (Spring) | Kathak Performance | Teentaal | Composed by Pt. Birju Maharaj"
+        }
+      ]
+    },
+    {
+      "event": "Nirtat Dhang Dance Festival 2022, May 15th",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/q_W941hm1DE?si=zTUZWS9OJELmiPz0",
+          "description": "TJhaptaal Tarana Kathak Performance"
+        },
+
+        {
+          "url": "https://www.youtube.com/embed/jVrxnoAUFnY?si=_QcnLUZLyQTiLRgC",
+          "description": "Saraswati Vandana Kathak Performance"
+        },
+
+        {
+          "url": "https://www.youtube.com/embed/KGs-mbneopo?si=UCpPwTzxOtMvdHcv",
+          "description": "Basant"
+        }
+      ]
+    }
+  ],
+  "community": [
+     
+    {
+      "event": "Independance Day 26th Jan 2023",
+      "videos": [
+
+        {
+           "url": "https://www.youtube.com/embed/4QJNChc2WiU?si=KlPcUCzYWAgwbyBN",
+          "description": "Sarswati Vandana"
+         }
+
+             ]
+      },
+      {
+      "event": "Krishna Janmashtami 19th August 2022",
+      "videos": [
+
+        {
+           "url": "https://www.youtube.com/embed/NokvNq9RKdY?si=o0dQYMP-SWgY-tl9",
+          "description": "Kasturi Tilakam"
+         }
+
+             ]
+      },
+      {
+      "event": "Krishna Janmashtami 30 August 2021",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/embed/W4h3cvVPV-8?si=dQBniXgp7eMBllkO",
+          "description": "Sundar Gopalam"
+        }
+      ]
+    }
+      
+  ],
+  "photos": ["k1.jpg","k2.jpg","k3.jpg","k4.jpg","k5.jpg","k6.jpg","k7.jpg","k8.jpg","k9.jpg","k10.jpg","k11.jpg","k12.jpg","k13.jpg","k14.jpg","k15.jpg","k16.jpg","k17.png"]
+}
