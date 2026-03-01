@@ -15,22 +15,29 @@
     },
         {
       "name": "Mentoring",
-      "url": "/mentoring"
+      "url": "/cmentoring"
     },
     {
-      "name": "Geometry Courses",
+      "name": "Geometry",
       "url": "/geometry"
     },
    
-         
+    {
+      "name": "Sports",
+      "url": "/sports",
+      "children": {
+        "Gymnastics": "/gymnastics",
+        "Basketball": "/basketball",
+        "Running": "/running"
+        
+      }
+    },
+   
+     
      {
       "name": "Community Work",
       "url": "/community"
-    },
-   
-     {
-      "name": "Contact",
-      "url": "/contact"
     }
+   
  ]
 }
